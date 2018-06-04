@@ -7,4 +7,6 @@ This application was taught by londonappbrewery from Udemy.
 3) Uses OpenWeatherMap API. A free account and APP ID was generated from OpenWeatherMap. Please create your own APP ID for testing. APP ID in this application is erased
 4) Below is a short video clip showing how the app works
 
-![Video](https://player.vimeo.com/video/273384391)
+<div align="center">
+  <a href="https://player.vimeo.com/video/273384391">Watch clip here</a>
+</div>
