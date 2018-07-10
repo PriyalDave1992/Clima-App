@@ -1,6 +1,5 @@
 # ClimateApplication
 This is a climate application to check climate for any city and your current location. 
-This application was taught by londonappbrewery from Udemy. 
 
 1) This application has 2 screens: one for viewing your current location's climate and other screen for changing the city
 2) This application fetches location as soon as you open the app and resume whenever
